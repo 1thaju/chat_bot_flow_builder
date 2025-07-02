@@ -43,10 +43,6 @@ This project is a simple Chatbot Flow Builder application built using React and 
 To set up and run the project on your local machine:
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [YOUR_GITHUB_REPO_URL_HERE]
-    cd BiteSpeed/client
-    ```
 2.  **Install Node.js:**
     Ensure you have Node.js version `20.19.0` or `22.12.0` (LTS) or higher installed. You can use a Node Version Manager (like `nvm-windows` for Windows or `nvm` for macOS/Linux) to easily manage Node.js versions.
     *   Check your Node.js version: `node -v`
