@@ -64,9 +64,6 @@ Example:
 This project can be deployed using services like Vercel. After linking your GitHub repository, Vercel will automatically detect the Vite project and deploy it.
 
 **Live Demo:**
-[Add your live demo link here]
+(https://chat-bot-flow-builder-mocha.vercel.app/)
 
-## GitHub Repository
 
-The code for this project is hosted on GitHub:
-[Add your GitHub repository link here]
